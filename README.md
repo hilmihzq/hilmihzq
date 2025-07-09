@@ -64,7 +64,7 @@
 <p align="center">
 
   <a href="LINK_PROTOTYPE_3" target="_blank">
-    <img src="https://github.com/user-attachments/assets/30c0fc20-9ed8-47e5-a9ee-53cfb41f8c83" alt="UI/UX Prototype 3" width="700"/>
+    <img src="https://github.com/user-attachments/assets/30c0fc20-9ed8-47e5-a9ee-53cfb41f8c83" alt="UI/UX Prototype 3" width="500"/>
   </a>
 </p>
 
