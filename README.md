@@ -138,7 +138,8 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hilmihzq&theme=transparent&no-bg=true&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hilmihzq&theme=flat&margin-w=10&margin-h=15" />
 </p>
+
 
 
