@@ -29,11 +29,10 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Node.js, Flask, Python, HTML, JavaScript, CSS, Android, Flutter, and Dart**  
+- 🌱 I’m currently learning **Node.js, Flask, Python, HTML, JavaScript, CSS, Android, Flutter,**  
 - 👯 I’m looking to collaborate on [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)  
 - 🤝 I’m looking for help with [API Optimization Project](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)  
 - 📝 I regularly write articles on [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)  
-- 💬 Ask me about **Node.js, Flask, Python, HTML, JavaScript, CSS, Android, Flutter, and Dart**  
 - 📫 How to reach me: **hilmi.haziq@example.com**  
 - 📄 Know about my experiences: [My Resume](https://your-resume-link.com)  
 - ⚡ Fun fact: *I really enjoy making people laugh — through jokes, casual humor, or even stand-up comedy!* 🎤😄
