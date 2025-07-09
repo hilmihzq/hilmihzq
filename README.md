@@ -142,8 +142,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hilmihzq&theme=tokyonight&margin-w=10&margin-h=15" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilmihzq&theme=tokyo-night&hide_border=true" />
-</p>
