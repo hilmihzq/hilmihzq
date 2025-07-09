@@ -59,6 +59,19 @@
 
 ---
 
+## 🎨 UI/UX Prototype
+
+<p align="center">
+  <a href="https://www.figma.com/proto/xxxxxxxx" target="_blank">
+    <img src="https://github.com/user-attachments/assets/475e0ba3-bfe3-4f0c-9894-70dffbd0351b" alt="UI/UX Prototype Preview" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🔗 <a href="https://www.figma.com/proto/xxxxxxxx" target="_blank">Click here to view the interactive prototype</a></b>
+</p>
+
+
 ## 🔗 Let's Connect
 
 <p align="center">
