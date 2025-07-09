@@ -129,19 +129,21 @@
 
 
 
-## ⏱️ WakaTime Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hilmi_haziq" />
-</p>
 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450" />
 </p>
 
-## 📦 Highlighted Repos
+## 🏆 GitHub Trophy
 
-- ![Repo](https://img.shields.io/badge/🍽️_RecipeApp-Flutter-blue?style=flat-square)  
-- ![Repo](https://img.shields.io/badge/🛍️_KatalogShoesh-HTML/CSS/JS-green?style=flat-square)  
-- ![Repo](https://img.shields.io/badge/📱_KlinikPonka-Figma-orange?style=flat-square)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hilmihzq&theme=tokyonight&margin-w=10&margin-h=15" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilmihzq&theme=tokyo-night&hide_border=true" />
+</p>
