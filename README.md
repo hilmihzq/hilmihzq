@@ -26,7 +26,7 @@
 - 📝 Writing on: [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
 - 📫 Reach me at: **hilmi.haziq052005@gmail.com**
 - 📄 My resume: [unpublish Sorry](----)
-- ⚡ Fun fact: *I love to make people laugh — from casual jokes to stand-up comedy!* 🎤😄
+- ⚡ Fun fact: *I love Music & book lover 🎧📚* 🎤😄
 
 ---
 
