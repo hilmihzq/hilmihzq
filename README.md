@@ -2,7 +2,7 @@
 <!-- 🎯 Animated Banner with Profile Image -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3d/d0/49/3dd049c66106d4fa012725772f013cd4.gif" alt="Animated Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/3d/d0/49/3dd049c66106d4fa012725772f013cd4.gif" alt="Banner" width="600px" />
 </p>
 
 
