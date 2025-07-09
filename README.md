@@ -63,12 +63,12 @@
 
 <p align="center">
   <a href="LINK_PROTOTYPE_KAMU" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1b6b9e90-8da7-49fd-925e-88fa93633c45" alt="UI/UX Prototype" width="600"/>
+    <img src="https://github.com/user-attachments/assets/8c935642-3ee5-4367-8fcd-a381dc87f9af" alt="UI/UX Prototype Preview" width="600"/>
   </a>
 </p>
 
 <p align="center">
-  🔗 <a href="LINK_PROTOTYPE_KAMU" target="_blank"><b>Click here to view full prototype</b></a>
+  🔗 <a href="LINK_PROTOTYPE_KAMU" target="_blank"><b>Click here to view the interactive prototype</b></a>
 </p>
 
 
