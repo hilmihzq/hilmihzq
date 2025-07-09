@@ -59,7 +59,7 @@
 
 ---
 
-## 🎨 UI/UX Prototype
+## 🎨 Example UI/UX Prototype (Figma Model)
 
 <p align="center">
   <a href="https://www.figma.com/proto/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=23-3&t=PRm8FNI4MNbZTbcA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3" target="_blank">
