@@ -1,7 +1,4 @@
 <!-- 🔥 Personal Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1d4fb522-2cf9-499b-a49d-14c8681a2780" alt="Hilmi Haziq Banner" width="600" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
 
@@ -30,8 +27,9 @@
 ## 🧠 Developer Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+  <img src="https://github.com/user-attachments/assets/1d4fb522-2cf9-499b-a49d-14c8681a2780" alt="Hilmi Haziq Banner" width="600" />
 </p>
+
 
 ---
 
