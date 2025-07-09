@@ -2,10 +2,6 @@
 <!-- 🎯 Animated Banner with Profile Image -->
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Hilmi+Haziq;Informatics+Engineering+Student;Frontend+%26+Mobile+Developer" alt="Typing animation" />
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
 <p align="center">
