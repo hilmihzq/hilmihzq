@@ -59,16 +59,16 @@
 
 ---
 
-## 🎨 UI/UX Prototype
+## 🎨 UI/UX Prototype Preview
 
 <p align="center">
-  <a href="https://www.figma.com/proto/xxxxxxxx" target="_blank">
-    <img src="https://github.com/user-attachments/assets/475e0ba3-bfe3-4f0c-9894-70dffbd0351b" alt="UI/UX Prototype Preview" width="600"/>
+  <a href="LINK_PROTOTYPE_KAMU" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1b6b9e90-8da7-49fd-925e-88fa93633c45" alt="UI/UX Prototype" width="600"/>
   </a>
 </p>
 
 <p align="center">
-  <b>🔗 <a href="https://www.figma.com/proto/xxxxxxxx" target="_blank">Click here to view the interactive prototype</a></b>
+  🔗 <a href="LINK_PROTOTYPE_KAMU" target="_blank"><b>Click here to view full prototype</b></a>
 </p>
 
 
