@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=I'm+an+Informatics+Engineering+Student" alt="Typing animation" />
 </p>
 
-<h3 align="center">A passionate frontend & mobile developer from Indonesia</h3>
+<h3 align="center">A passionate UI/UX & mobile developer from Indonesia</h3>
 
 <!-- 👨‍💻 Typing Animation -->
 <p align="center">
