@@ -24,8 +24,8 @@
 - 👯 Actively collaborating on: [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)
 - 🤝 Need help on: [API Optimization Project](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)
 - 📝 Writing on: [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
-- 📫 Reach me at: **hilmi.haziq@example.com**
-- 📄 My resume: [View CV](https://your-resume-link.com)
+- 📫 Reach me at: **hilmi.haziq052005@gmail.com**
+- 📄 My resume: [unpublish Sorry](----)
 - ⚡ Fun fact: *I love to make people laugh — from casual jokes to stand-up comedy!* 🎤😄
 
 ---
