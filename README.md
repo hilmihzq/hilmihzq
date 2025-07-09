@@ -1,10 +1,17 @@
+<!-- 🔥 Personal Banner -->
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Hilmi Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
 <h3 align="center">A passionate frontend & mobile developer from Indonesia</h3>
 
+<!-- 👨‍💻 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile;I+Love+Building+Mobile+%26+Web+Apps;Always+learning+something+new!" alt="Typing animation" />
 </p>
 
+<!-- 👀 Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20views&color=0e75b6&style=flat" alt="hilmihzq" />
 </p>
@@ -68,7 +75,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=tokyonight" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=tokyonight" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=tokyonight" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=gradient" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=gradient" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=gradient" width="33%" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+> Pastikan kamu setup GitHub Action untuk ini:  
+> 👉 https://github.com/Platane/snk
+
+```html
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hilmihzq/hilmihzq/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
