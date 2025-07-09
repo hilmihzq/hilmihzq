@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c5e2b99f-7405-4d6a-a10b-2ee03fcdb0e0)<!-- 🔥 Personal Banner -->
+<!-- 🔥 Personal Banner -->
 <!-- 🎯 Animated Banner with Profile Image -->
 
 <p align="center">
