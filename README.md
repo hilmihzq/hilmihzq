@@ -1,4 +1,11 @@
 <!-- 🔥 Personal Banner -->
+<!-- 🎬 Animated Banner -->
+
+<p align="center">
+  <img src="https://i1.wp.com/wallpaperaccess.com/full/2825711.gif" alt="Animated Banner" width="100%" />
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
 
