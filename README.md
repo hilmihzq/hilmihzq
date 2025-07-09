@@ -123,8 +123,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=graywhite&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=graywhite&hide_border=true" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=transparent&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=transparent&hide_border=true" width="48%"/>
 </p>
 
 
