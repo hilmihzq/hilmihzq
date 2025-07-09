@@ -3,7 +3,7 @@
 
 <!-- 🎬 Animated Banner with Controlled Height -->
 <p align="center">
-  <img src="https://i1.wp.com/wallpaperaccess.com/full/2825711.gif" alt="Animated Banner" width="100%" style="height: 200px; object-fit: cover;" />
+  <img src="https://i1.wp.com/wallpaperaccess.com/full/2825711.gif" alt="Animated Banner" width="100%" style="height: 400px; object-fit: cover;" />
 </p>
 
 
