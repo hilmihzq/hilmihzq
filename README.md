@@ -1,43 +1,33 @@
 <!-- 🔥 Personal Banner -->
-<!-- 🎯 Animated Banner with Profile Image -->
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d4fb522-2cf9-499b-a49d-14c8681a2780" alt="Banner" width="500px" />
+  <img src="https://github.com/user-attachments/assets/1d4fb522-2cf9-499b-a49d-14c8681a2780" alt="Hilmi Haziq Banner" width="600" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=I'm+an+Informatics+Engineering+Student" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Passionate+about+UI/UX+%26+Mobile+Development" alt="Typing animation" />
 </p>
 
-<h3 align="center">A passionate UI/UX & mobile developer from Indonesia</h3>
-
-<!-- 👨‍💻 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile;I+Love+Building+Mobile+%26+Web+Apps;Always+learning+something+new!" alt="Typing animation" />
-</p>
-
-<!-- 👀 Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20views&color=0e75b6&style=flat" alt="hilmihzq" />
+  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=0e75b6&style=flat" alt="hilmihzq" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Node.js, Flask, Python, HTML, JavaScript, CSS, Android, Flutter,**  
-- 👯 I’m looking to collaborate on [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)  
-- 🤝 I’m looking for help with [API Optimization Project](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)  
-- 📝 I regularly write articles on [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)  
-- 📫 How to reach me: **hilmi.haziq@example.com**  
-- 📄 Know about my experiences: [My Resume](https://your-resume-link.com)  
-- ⚡ Fun fact: *I really enjoy making people laugh — through jokes, casual humor, or even stand-up comedy!* 🎤😄
+- 🌱 Currently exploring: **Node.js, Flask, Python, HTML, CSS, JavaScript, Flutter**
+- 👯 Actively collaborating on: [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)
+- 🤝 Need help on: [API Optimization Project](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)
+- 📝 Writing on: [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
+- 📫 Reach me at: **hilmi.haziq@example.com**
+- 📄 My resume: [View CV](https://your-resume-link.com)
+- ⚡ Fun fact: *I love to make people laugh — from casual jokes to stand-up comedy!* 🎤😄
 
 ---
 
-### 🧠 Developer Vibes
+## 🧠 Developer Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
@@ -45,50 +35,41 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://twitter.com/hilmihzq" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hilmihzq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://fb.com/hilmi hzq" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/hilmihaziiq" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/hilmihzq" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/hilmihzq" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://twitter.com/hilmihzq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hilmihzq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/hilmi hzq"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/hilmihaziiq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/hilmihzq"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://discord.gg/hilmihzq"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=tokyonight" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=tokyonight" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=tokyonight" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=tokyonight&hide_border=true" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=tokyonight&hide_border=true" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=tokyonight&hide_border=true" width="33%" />
 </p>
+
 ---
-
-### 🐍 GitHub Contribution Snake
-
-> Pastikan kamu setup GitHub Action untuk ini:  
-> 👉 https://github.com/Platane/snk
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hilmihzq/hilmihzq/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
