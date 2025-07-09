@@ -2,7 +2,7 @@
 <!-- 🎯 Animated Banner with Profile Image -->
 
 <p align="center">
-  <img src="https://images.fastcompany.com/image/upload/q_auto,c_fit,w_1024,h_1024/wp-cms/uploads/2015/03/3043564-slide-2-heat-map-1.gif" alt="Heatmap Banner" width="700px" />
+  <img src="https://github.com/user-attachments/assets/1d4fb522-2cf9-499b-a49d-14c8681a2780" alt="Banner" width="700px" />
 </p>
 
 
