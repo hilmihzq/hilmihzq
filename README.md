@@ -45,8 +45,7 @@
 | [🍽️ Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop) | A beautiful Flutter mobile app for browsing recipes with UI/UX focus. | Flutter, Firebase |
 | [🛍️ Katalog-Shoesh-Using-API](https://github.com/hilmihzq/Katalog-Shoesh-Using-API) | Shoe catalog web app using RESTful API and dynamic UI. | HTML, CSS, JS, API |
 | [🏥 DSS-Klinik-COPRAS](https://github.com/hilmihzq/DSS-Klinik-Using-Methode-COPRAS) | Decision support system for clinics using COPRAS method. | HTML, PHP, JS |
-| [📱 Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop.git)  | Mobile UI redesign inspired by CookPad App. | Flutter |
-| [📱 UI&UX AmbaTeams -Store Games](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop.git)  | UI&UX Design inspired by Steam,Epic,Xbox App, for buy a game and views. | Flutter |
+| [📱 UI&UX AmbaTeams -Store Games](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1&t=YgfPZA7yzVBwWfRa-1)  | UI&UX Design inspired by Steam,Epic,Xbox App, for buy a game and views. | Flutter |
 
 ---
 
