@@ -34,7 +34,7 @@
 - 🤝 Need help on: [API Optimization Project](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)
 - 📝 Writing on: [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
 - 📫 Reach me at: **hilmi.haziq052005@gmail.com**
-- 📄 My resume: [unpublish Sorry](----)
+- 📄 My resume: Available upon request (please contact me by email)
 - ⚡ Fun fact: *I love Music & book lover 🎧📚* 🎤😄
 
 ---
