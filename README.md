@@ -2,7 +2,7 @@
 <!-- 🎯 Animated Banner with Profile Image -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d4fb522-2cf9-499b-a49d-14c8681a2780" alt="Banner" width="700px" />
+  <img src="https://github.com/user-attachments/assets/1d4fb522-2cf9-499b-a49d-14c8681a2780" alt="Banner" width="500px" />
 </p>
 
 
