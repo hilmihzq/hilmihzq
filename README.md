@@ -45,7 +45,7 @@
 | [🍽️ Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop) | A beautiful Flutter mobile app for browsing recipes with UI/UX focus. | Flutter, Firebase |
 | [🛍️ Katalog-Shoesh-Using-API](https://github.com/hilmihzq/Katalog-Shoesh-Using-API) | Shoe catalog web app using RESTful API and dynamic UI. | HTML, CSS, JS, API |
 | [🏥 DSS-Klinik-COPRAS](https://github.com/hilmihzq/DSS-Klinik-Using-Methode-COPRAS) | Decision support system for clinics using COPRAS method. | HTML, PHP, JS |
-| [📱 Shopee UI Clone](https://github.com/hilmihzq) *(coming soon)* | Mobile UI redesign inspired by Shopee App. | Flutter |
+| [📱 Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop.git) *(coming soon)* | Mobile UI redesign inspired by CookPad App. | Flutter |
 
 ---
 
