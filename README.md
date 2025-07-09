@@ -59,19 +59,21 @@
 
 ---
 
-## 🎨 UI/UX Prototypes
+## 🎨 UI/UX Prototype
 
 <p align="center">
-
-  <a href="LINK_PROTOTYPE_3" target="_blank">
-    <img src="https://github.com/user-attachments/assets/30c0fc20-9ed8-47e5-a9ee-53cfb41f8c83" alt="UI/UX Prototype 3" width="500"/>
+  <a href="https://www.figma.com/proto/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=23-3&t=PRm8FNI4MNbZTbcA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3" target="_blank">
+    <img src="https://github.com/user-attachments/assets/30c0fc20-9ed8-47e5-a9ee-53cfb41f8c83" alt="UI/UX Prototype Preview" width="500"/>
   </a>
 </p>
 
 <p align="center">
-  🔗 <a href="LINK_PROTOTYPE_1" target="_blank"><b>View Prototype 1</b></a> •
-  <a href="LINK_PROTOTYPE_2" target="_blank"><b>View Prototype 2</b></a> •
-  <a href="LINK_PROTOTYPE_3" target="_blank"><b>View Prototype 3</b></a>
+  ✨ Check out my UI/UX design on Figma and try the interactive prototype now!  
+  I hope you enjoy the experience and find the design satisfying! 😊
+</p>
+
+<p align="center">
+  🔗 <a href="https://www.figma.com/proto/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=23-3&t=PRm8FNI4MNbZTbcA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3" target="_blank"><b>👉 Click here to view the interactive prototype</b></a>
 </p>
 
 
