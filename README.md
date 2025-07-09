@@ -10,6 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=0e75b6&style=flat" alt="hilmihzq" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-44cc11?style=flat-square&logo=Handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Currently%20Learning-Flutter%20%26%20Firebase-blue?style=flat-square&logo=Flutter"/>
+  <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-orange?style=flat-square&logo=github"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -30,6 +36,25 @@
   <img src="https://github.com/user-attachments/assets/1d4fb522-2cf9-499b-a49d-14c8681a2780" alt="Hilmi Haziq Banner" width="600" />
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🍽️ Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop) | A beautiful Flutter mobile app for browsing recipes with UI/UX focus. | Flutter, Firebase |
+| [🛍️ Katalog-Shoesh-Using-API](https://github.com/hilmihzq/Katalog-Shoesh-Using-API) | Shoe catalog web app using RESTful API and dynamic UI. | HTML, CSS, JS, API |
+| [🏥 DSS-Klinik-COPRAS](https://github.com/hilmihzq/DSS-Klinik-Using-Methode-COPRAS) | Decision support system for clinics using COPRAS method. | HTML, PHP, JS |
+| [📱 Shopee UI Clone](https://github.com/hilmihzq) *(coming soon)* | Mobile UI redesign inspired by Shopee App. | Flutter |
+
+---
+
+## 📚 Learning Journey
+
+- [x] HTML, CSS, JavaScript
+- [x] Firebase & Flutter
+- [ ] Backend API with Flask
+- [ ] Deployment & DevOps Basics
 
 ---
 
@@ -71,3 +96,17 @@
 </p>
 
 ---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hilmihzq&theme=tokyonight&margin-w=10&margin-h=15&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilmihzq&theme=tokyo-night&hide_border=true" />
+</p>
