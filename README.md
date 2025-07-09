@@ -1,8 +1,8 @@
-<!-- 🔥 Personal Banner -->
+![image](https://github.com/user-attachments/assets/c5e2b99f-7405-4d6a-a10b-2ee03fcdb0e0)<!-- 🔥 Personal Banner -->
 <!-- 🎯 Animated Banner with Profile Image -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3d/d0/49/3dd049c66106d4fa012725772f013cd4.gif" alt="Banner" width="600px" />
+  <img src="https://github.com/user-attachments/assets/24f24d2c-8b93-484e-8db3-2ca41eb345b0" alt="Banner" width="600px" />
 </p>
 
 
