@@ -75,11 +75,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=gradient" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=gradient" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=gradient" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=tokyonight" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=tokyonight" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=tokyonight" width="33%" />
 </p>
-
 ---
 
 ### 🐍 GitHub Contribution Snake
