@@ -1,6 +1,9 @@
 <!-- 🔥 Personal Banner -->
 <!-- 🎯 Animated Banner with Profile Image -->
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/43/46/bf/4346bfab935dd298301103d619daad3a.gif" alt="Banner" width="100%" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
