@@ -1,19 +1,12 @@
-<!-- 🔥 Personal Banner -->
-<p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Hilmi Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
 <h3 align="center">A passionate frontend & mobile developer from Indonesia</h3>
 
-<!-- 👀 View Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20views&color=00aaff&style=flat-square" alt="hilmihzq" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile;I+Love+Building+Mobile+%26+Web+Apps;Always+learning+something+new!" alt="Typing animation" />
 </p>
 
-<!-- 🖋️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monaco&size=22&duration=3000&pause=1000&color=F7AA00&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Hilmi+Haziq;Frontend+%26+Mobile+Developer;Coding+is+my+passion+🔥;Always+learning+new+tech+🚀" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20views&color=0e75b6&style=flat" alt="hilmihzq" />
 </p>
 
 ---
@@ -27,7 +20,15 @@
 - 💬 Ask me about **Node.js, Flask, Python, HTML, JavaScript, CSS, Android, Flutter, and Dart**  
 - 📫 How to reach me: **hilmi.haziq@example.com**  
 - 📄 Know about my experiences: [My Resume](https://your-resume-link.com)  
-- ⚡ Fun fact: *I love making people laugh — from stand-up to spontaneous jokes!* 🎤😄
+- ⚡ Fun fact: *I really enjoy making people laugh — through jokes, casual humor, or even stand-up comedy!* 🎤😄
+
+---
+
+### 🧠 Developer Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+</p>
 
 ---
 
@@ -47,19 +48,19 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" />
 </p>
 
 ---
@@ -67,18 +68,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=gradient" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=gradient" width="33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=gradient" width="33%" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-> Tambahkan GitHub Action dulu agar muncul SVG ini otomatis.
-
-```markdown
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hilmihzq/hilmihzq/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=tokyonight" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=tokyonight" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=tokyonight" width="33%" />
 </p>
