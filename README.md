@@ -63,8 +63,8 @@
 
 - [x] HTML, CSS, JavaScript
 - [x] Firebase & Flutter
-- [ ] Backend API with Flask
-- [ ] Deployment & DevOps Basics
+- [x] Backend API with Flask
+- [x] Deployment & DevOps Basics
 
 ---
 
