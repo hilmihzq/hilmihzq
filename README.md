@@ -69,6 +69,8 @@
 - [x] Firebase & Flutter
 - [x] Backend API with Flask
 - [x] Deployment & DevOps Basics
+- [x] Android Studio & Flutter
+- [x] Figma & Mockup
 
 ---
 
