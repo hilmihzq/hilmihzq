@@ -1,7 +1,7 @@
-<!-- 🔥 Personal Banner -->
-<!-- 🎬 Animated Banner -->
+<!-- Personal Banner -->
+<!-- Animated Banner -->
 
-<!-- 🎬 Animated Banner with Controlled Height -->
+<!-- Animated Banner with Controlled Height -->
 <p align="center">
   <img src="https://i1.wp.com/wallpaperaccess.com/full/2825711.gif" alt="Animated Banner" width="100%" style="height: 400px; object-fit: cover;" />
 </p>
@@ -27,19 +27,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌱 Currently exploring: **Node.js, Flask, Python, HTML, CSS, JavaScript, Flutter**
-- 👯 Actively collaborating on: [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)
-- 🤝 Need help on: [API Optimization Project](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)
-- 📝 Writing on: [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
-- 📫 Reach me at: **hilmi.haziq052005@gmail.com**
-- 📄 My resume: Available upon request (please contact me by email)
-- ⚡ Fun fact: *I love Music & book lover 🎧📚* 🎤😄
+- Currently exploring: **Node.js, Flask, Python, HTML, CSS, JavaScript, Flutter**
+- Actively collaborating on: [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)
+- Need help on: [API Optimization Project](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)
+- Writing on: [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
+- Reach me at: **hilmi.haziq052005@gmail.com**
+- My resume: Available upon request (please contact me by email)
+- Fun fact: *I love Music & book lover 
 
 ---
 
-## 🧠 Developer Vibes
+## Developer Vibes
 
 > “Design is not just what it looks like and feels like. Design is how it works.”  
 > — *Steve Jobs*
@@ -51,19 +51,19 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🍽️ Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop) | A beautiful Flutter mobile app for browsing recipes with UI/UX focus. | Flutter, Firebase |
-| [🛍️ Katalog-Shoesh-Using-API](https://github.com/hilmihzq/Katalog-Shoesh-Using-API) | Shoe catalog web app using RESTful API and dynamic UI. | HTML, CSS, JS, API |
-| [🏥 DSS-Klinik-COPRAS](https://github.com/hilmihzq/DSS-Klinik-Using-Methode-COPRAS) | Decision support system for clinics using COPRAS method. | HTML, JS, Node.js,phyton,Flask-API |
-| [📱 UI&UX AmbaTeams -Store Games](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1&t=YgfPZA7yzVBwWfRa-1)  | UI&UX Design inspired by Steam,Epic,Xbox App, for buy a game and views. | Figma |
-| [📱 UI&UX Klinik Ponka -Klinik Healty For Anyone](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1&t=YgfPZA7yzVBwWfRa-1)  | UI&UX Design inspired by Halodoc for anyone to make some appoiment with a doctor anytime anywhere. | Figma |
+| [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop) | A beautiful Flutter mobile app for browsing recipes with UI/UX focus. | Flutter, Firebase |
+| [Katalog-Shoesh-Using-API](https://github.com/hilmihzq/Katalog-Shoesh-Using-API) | Shoe catalog web app using RESTful API and dynamic UI. | HTML, CSS, JS, API |
+| [DSS-Klinik-COPRAS](https://github.com/hilmihzq/DSS-Klinik-Using-Methode-COPRAS) | Decision support system for clinics using COPRAS method. | HTML, JS, Node.js,phyton,Flask-API |
+| [UI&UX AmbaTeams -Store Games](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1&t=YgfPZA7yzVBwWfRa-1)  | UI&UX Design inspired by Steam,Epic,Xbox App, for buy a game and views. | Figma |
+| [UI&UX Klinik Ponka -Klinik Healty For Anyone](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1&t=YgfPZA7yzVBwWfRa-1)  | UI&UX Design inspired by Halodoc for anyone to make some appoiment with a doctor anytime anywhere. | Figma |
 
 ---
 
-## 📚 Learning Journey
+## Learning Journey
 
 - [x] HTML, CSS, JavaScript
 - [x] Firebase & Flutter
@@ -74,7 +74,7 @@
 
 ---
 
-## 🎨 Example UI/UX Prototype (Figma Model)
+## Example UI/UX Prototype (Figma Model)
 
 <p align="center">
   <a href="https://www.figma.com/proto/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=23-3&t=PRm8FNI4MNbZTbcA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3" target="_blank">
@@ -83,17 +83,17 @@
 </p>
 
 <p align="center">
-  ✨ Check out my UI/UX design on Figma and try the interactive prototype now!  
-  I hope you enjoy the experience and find the design satisfying! 😊
+  Check out my UI/UX design on Figma and try the interactive prototype now!  
+  I hope you enjoy the experience and find the design satisfying! 
 </p>
 
 <p align="center">
-  🔗 <a href="https://www.figma.com/proto/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=23-3&t=PRm8FNI4MNbZTbcA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3" target="_blank"><b>👉 Click here to view the interactive prototype</b></a>
+  <a href="https://www.figma.com/proto/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=23-3&t=PRm8FNI4MNbZTbcA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3" target="_blank"><b>Click here to view the interactive prototype</b></a>
 </p>
 
 
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://twitter.com/hilmihzq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -106,7 +106,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
@@ -122,7 +122,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=transparent&hide_border=true" width="400" />
