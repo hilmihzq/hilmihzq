@@ -1,142 +1,77 @@
-<!-- Personal Banner -->
-<!-- Animated Banner -->
-
-<!-- Animated Banner with Controlled Height -->
+<h1 align="center">Hilmi Haziq</h1>
 <p align="center">
-  <img src="https://i1.wp.com/wallpaperaccess.com/full/2825711.gif" alt="Animated Banner" width="100%" style="height: 400px; object-fit: cover;" />
+  Informatics Engineering Student | Full Stack & Mobile Developer
 </p>
 
+<br>
 
+## Profile
 
+Mahasiswa Teknik Informatika dengan fokus keahlian Full Stack & Mobile Development. Memiliki pengalaman pengembangan aplikasi end-to-end, mulai dari perancangan basis data hingga deployment aplikasi. Adaptif dalam mempelajari teknologi modern, mampu berkolaborasi dalam tim, serta berorientasi pada pengembangan solusi digital yang efisien, responsif, dan inovatif.
 
-<h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Passionate+about+UI/UX+%26+Mobile+Development" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=0e75b6&style=flat" alt="hilmihzq" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-44cc11?style=flat-square&logo=Handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Currently%20Learning-Flutter%20%26%20Firebase-blue?style=flat-square&logo=Flutter"/>
-  <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-orange?style=flat-square&logo=github"/>
-</p>
-
----
-
-## About Me
-
-- Currently exploring: **Node.js, Flask, Python, HTML, CSS, JavaScript, Flutter**
-- Actively collaborating on: [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)
-- Need help on: [API Optimization Project](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)
-- Writing on: [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
-- Reach me at: **hilmi.haziq052005@gmail.com**
-- My resume: Available upon request (please contact me by email)
-- Fun fact: *I love Music & book lover 
+*   **Currently Exploring:** Node.js, Flask, Python, HTML, CSS, JavaScript, Flutter
+*   **Writing On:** [Medium - Introduction](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
+*   **Location:** Jakarta Utara, Indonesia
 
 ---
 
 ## Developer Vibes
 
-> “Design is not just what it looks like and feels like. Design is how it works.”  
+> "Design is not just what it looks like and feels like. Design is how it works."  
 > — *Steve Jobs*
 
+---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1d4fb522-2cf9-499b-a49d-14c8681a2780" alt="Hilmi Haziq Banner" width="600" />
-</p>
+## Skills & Technologies
+
+*   **Frontend & Mobile:** HTML, CSS, JavaScript, TypeScript, Next.js, Flutter, Dart, Figma.
+*   **Backend & API:** Node.js, Express.js, Flask, FastAPI, Laravel, PHP, RESTful API.
+*   **Database, Cloud & DevOps:** PostgreSQL, MySQL, Firebase, Docker, VPS, Linux/Ubuntu Server, Nginx, JWT, OAuth, Midtrans.
+*   **Methodology & Analysis:** Data Analysis, Machine Learning, Web Scraping, SDLC.
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop) | A beautiful Flutter mobile app for browsing recipes with UI/UX focus. | Flutter, Firebase |
-| [Katalog-Shoesh-Using-API](https://github.com/hilmihzq/Katalog-Shoesh-Using-API) | Shoe catalog web app using RESTful API and dynamic UI. | HTML, CSS, JS, API |
-| [DSS-Klinik-COPRAS](https://github.com/hilmihzq/DSS-Klinik-Using-Methode-COPRAS) | Decision support system for clinics using COPRAS method. | HTML, JS, Node.js,phyton,Flask-API |
-| [UI&UX AmbaTeams -Store Games](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1&t=YgfPZA7yzVBwWfRa-1)  | UI&UX Design inspired by Steam,Epic,Xbox App, for buy a game and views. | Figma |
-| [UI&UX Klinik Ponka -Klinik Healty For Anyone](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1&t=YgfPZA7yzVBwWfRa-1)  | UI&UX Design inspired by Halodoc for anyone to make some appoiment with a doctor anytime anywhere. | Figma |
+| Project | Role & Tech Stack | Description |
+|---------|-------------------|-------------|
+| **RTPU-PNJ Research Project** | Full Stack Developer <br> *Flask, PostgreSQL, VPS* | Mengembangkan platform e-learning lms-rtpu.pnj.ac.id dengan RBAC Auth & integrasi Midtrans. |
+| **DigiCode System Management** | Full Stack Developer <br> *Flask, PostgreSQL, Midtrans* | Mengembangkan platform e-learning dengan fitur autentikasi, manajemen modul, dan transaksi digital. |
+| **Churnify Spotify Customer Churn** | ML Web Developer <br> *Data Automation, Playwright* | Aplikasi Machine Learning berbasis web untuk prediksi customer churn dengan analisis data real-time. |
+| **[Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)** | Mobile Developer <br> *Flutter, Firebase* | A beautiful Flutter mobile app for browsing recipes with strict UI/UX focus. |
+| **[Klinik Ponka / DSS Klinik](https://github.com/hilmihzq/DSS-Klinik-Using-Methode-COPRAS)** | Mobile Developer <br> *Flutter, Node.js, Flask-API* | Aplikasi mobile kesehatan & sistem pendukung keputusan (COPRAS) untuk reservasi dokter dan transaksi obat. |
+| **[Store Games](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix)** | Mobile Developer <br> *Flutter, Figma* | Pengembangan aplikasi mobile toko game dengan optimalisasi UI/UX (terinspirasi dari Steam/Xbox). |
+| **[Katalog-Shoesh-Using-API](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)** | Web Developer <br> *HTML, CSS, JS, API* | Shoe catalog web app using RESTful API and dynamic UI. |
 
 ---
 
-## Learning Journey
+## Education
 
-- [x] HTML, CSS, JavaScript
-- [x] Firebase & Flutter
-- [x] Backend API with Flask
-- [x] Deployment & DevOps Basics
-- [x] Android Studio & Flutter
-- [x] Figma & Mockup
+*   **Politeknik Negeri Jakarta** — Teknik Informatika (2023 - Sekarang)
+*   **CCIT Fakultas Teknik Universitas Indonesia** — Software Engineering (2023 - 2025)
 
 ---
 
-## Example UI/UX Prototype (Figma Model)
+## Achievements
 
-<p align="center">
-  <a href="https://www.figma.com/proto/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=23-3&t=PRm8FNI4MNbZTbcA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3" target="_blank">
-    <img src="https://github.com/user-attachments/assets/30c0fc20-9ed8-47e5-a9ee-53cfb41f8c83" alt="UI/UX Prototype Preview" width="500"/>
-  </a>
-</p>
-
-<p align="center">
-  Check out my UI/UX design on Figma and try the interactive prototype now!  
-  I hope you enjoy the experience and find the design satisfying! 
-</p>
-
-<p align="center">
-  <a href="https://www.figma.com/proto/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=23-3&t=PRm8FNI4MNbZTbcA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3" target="_blank"><b>Click here to view the interactive prototype</b></a>
-</p>
-
-
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://twitter.com/hilmihzq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hilmihzq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://fb.com/hilmi hzq"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/hilmihaziiq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/hilmihzq"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/hilmihzq"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+*   **Publikasi Karya Ilmiah (Jun 2026):** Mempublikasikan artikel ilmiah bersama dosen pada Seminar Nasional Inovasi Vokasi (SNIV) 2026.
+*   **Kontribusi Proyek Penelitian (Jan 2026 - Sekarang):** Aktif berkontribusi dalam proyek riset bersama dosen PNJ untuk pengembangan ekosistem digital kampus.
 
 ---
 
-## Tools & Technologies
+## UI/UX Prototypes
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
-</p>
+I focus heavily on the user experience. You can explore my design thought process through my interactive prototypes.
+
+*   [**View Interactive Prototype on Figma**](https://www.figma.com/proto/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=23-3&t=PRm8FNI4MNbZTbcA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3)
 
 ---
 
-## GitHub Stats
+## Contact & Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=transparent&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=transparent&hide_border=true" width="300" />
+<p align="left">
+  <a href="mailto:hilmi.haziq.tik23@stu.pnj.ac.id">Email</a> &nbsp;&bull;&nbsp;
+  <a href="https://linkedin.com/in/hilmihaziq">LinkedIn</a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/hilmihzq">GitHub</a> &nbsp;&bull;&nbsp;
+  <a href="https://hilmihaziq-portofolio.online">Portfolio Website</a>
 </p>
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hilmihzq&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="450" />
-</p>
-
-
-
-
