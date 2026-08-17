@@ -33,16 +33,16 @@
 
 </div>
 
-<!-- ══════════════ 100% DYNAMIC METRICS BADGES (FIXED) ══════════════ -->
-<h3 align="center">// REAL-TIME DYNAMIC METRICS</h3>
+<!-- ══════════════ REAL-TIME DYNAMIC METRICS BADGES ══════════════ -->
+<h3 align="center">// REAL-TIME METRICS & ACTIVITY BADGES</h3>
 
-<!-- BARIS 1: 100% DINAMIS DARI GITHUB API (100% STABIL & WORKING) -->
+<!-- BARIS 1: METRIK KONTRIBUSI REAL-TIME DARI GITHUB SEARCH API -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=FF3B00&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/search/hilmihzq/hilmihzq?style=flat-square&label=Total%20Commits&color=FF3B00&logo=github&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/github/search?query=user%3Ahilmihzq&style=flat-square&label=Total%20Commits&color=FF3B00&logo=github&logoColor=white" alt="Total Commits" />
   &nbsp;
-  <img src="https://img.shields.io/github/last-commit/hilmihzq/hilmihzq?style=flat-square&label=Last%20Commit&color=3B82F6&logo=git&logoColor=white" alt="Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/hilmihzq/HilmiHaziq-Portofolio?style=flat-square&label=Last%20Commit&color=3B82F6&logo=git&logoColor=white" alt="Last Commit" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/hilmihzq?style=flat-square&label=Followers&color=10B981&logo=github&logoColor=white" alt="Followers" />
 </p>
