@@ -11,46 +11,42 @@
 
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
 
-<!-- 1. HEADER BANNER ANIMASI OMBAK (CAPSULE RENDER) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,50:1a1a1a,100:ff3b00&height=200&section=header&text=HILMI%20HAZIQ&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkle&desc=Fullstack%20%26%20Mobile%20Developer&descSize=18&descAlignY=60&descAlign=50" width="100%" />
-</p>
+<div align="center">
 
-<!-- 2. ANIMASI TYPING ROLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF3B00&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Informatics+Engineering+Student;%F0%9F%93%B1+Mobile+Developer+(Flutter);%F0%9F%92%BB+Fullstack+Developer+Intern+%40PT+KAI+Properti;%F0%9F%8E%A8+UI%2FUX+Design+%26+Clean+Architecture" alt="Typing animation" />
-</p>
+  <!-- 1. HEADER NAMA & SALAM -->
+  <h1 align="center">Hi, I'm Hilmi Haziq 👋</h1>
 
-<!-- 3. BADGES STATUS & QUICK LINKS -->
-<p align="center">
-  <a href="https://hilmihzq.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-hilmihzq.github.io-FF3B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open_To-Internship_%26_Freelance-10B981?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=ff3b00&style=for-the-badge" alt="Profile Views" />
-</p>
+  <!-- 2. ANIMASI TYPING (PROPORSI RAPI & BERSIH) -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FF3B00&center=true&vCenter=true&width=520&lines=Fullstack+%26+Mobile+Developer;Informatics+Engineering+Student;UI%2FUX+%26+Mobile+App+Enthusiast" alt="Typing Animation" />
+  </p>
 
-<br />
+  <!-- 3. BADGES STATUS (STYLE UNIFORM & SIMETRIS) -->
+  <p align="center">
+    <a href="https://hilmihzq.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-FF3B00?style=flat-square&logo=googlechrome&logoColor=white"/>
+    </a>
+    <img src="https://img.shields.io/badge/Role-Fullstack_%26_Mobile-1e1e1e?style=flat-square&logo=codefactor&logoColor=FF3B00"/>
+    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-1e1e1e?style=flat-square&logo=handshake&logoColor=10B981"/>
+    <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Views&color=FF3B00&style=flat-square" alt="Profile Views" />
+  </p>
 
-<!-- 4. TECH STACK ICONS ANIMASI -->
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,nextjs,vue,react,firebase,mysql,java,dotnet,figma,tailwind,js,ts&perline=6" alt="Tech Stack" />
-</p>
+  <br />
 
-<br />
+  <!-- 4. TECH STACK (1 BARIS PROPORSIONAL) -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,nextjs,vue,firebase,mysql,java,dotnet,figma&perline=8" alt="Tech Stack Icons" />
+  </p>
 
-<!-- 5. STATS GITHUB DARK THEME (#FF3B00 ACCENT) -->
-<h3 align="center">📊 GitHub Activity & Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=dark&title_color=ff3b00&icon_color=ff3b00&text_color=ffffff&bg_color=141414&border_color=333333&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=dark&title_color=ff3b00&text_color=ffffff&bg_color=141414&border_color=333333&hide_border=false" width="48%" />
-</p>
+  <br />
 
-<!-- 6. ANIMASI STREAK GITHUB -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmihzq&theme=dark&background=141414&stroke=ff3b00&alarm=ff3b00&fire=ff3b00&ring=ff3b00&border=333333" width="97%" />
-</p>
+  <!-- 5. STATS CARD (RAPI 2 KOLOM SEJAJAR) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=dark&title_color=ff3b00&icon_color=ff3b00&bg_color=141414&border_color=222222&hide_border=false" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=dark&title_color=ff3b00&bg_color=141414&border_color=222222&hide_border=false" width="48%" />
+  </p>
+
+</div>
 
 
 
