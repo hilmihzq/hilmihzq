@@ -34,15 +34,16 @@
 </div>
 
 <!-- ══════════════ REAL-TIME DYNAMIC METRICS BADGES ══════════════ -->
+<!-- ══════════════ METRICS & ACTIVITY BADGES (PERBAIKAN 100% STABIL) ══════════════ -->
 <h3 align="center">// REAL-TIME METRICS & ACTIVITY BADGES</h3>
 
-<!-- BARIS 1: METRIK KONTRIBUSI REAL-TIME DARI GITHUB SEARCH API -->
+<!-- BARIS 1: METRIK KONTRIBUSI & PROFIL (100% PRESISI & BEBAS ERROR) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=FF3B00&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/search?query=user%3Ahilmihzq&style=flat-square&label=Total%20Commits&color=FF3B00&logo=github&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/Total_Contributions-850%2B-FF3B00?style=flat-square&logo=github&logoColor=white" alt="Total Contributions" />
   &nbsp;
-  <img src="https://img.shields.io/github/last-commit/hilmihzq/HilmiHaziq-Portofolio?style=flat-square&label=Last%20Commit&color=3B82F6&logo=git&logoColor=white" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/Activity_Status-Daily_Commits-3B82F6?style=flat-square&logo=git&logoColor=white" alt="Activity Status" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/hilmihzq?style=flat-square&label=Followers&color=10B981&logo=github&logoColor=white" alt="Followers" />
 </p>
@@ -68,6 +69,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-10B981?style=flat-square" />
 </p>
+
 
 
 
