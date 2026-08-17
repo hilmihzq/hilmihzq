@@ -139,26 +139,65 @@
 
 ---
 
-## Featured Projects
+---
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop) | A beautiful Flutter mobile app for browsing recipes with UI/UX focus. | Flutter, Firebase |
-| [Katalog-Shoesh-Using-API](https://github.com/hilmihzq/Katalog-Shoesh-Using-API) | Shoe catalog web app using RESTful API and dynamic UI. | HTML, CSS, JS, API |
-| [DSS-Klinik-COPRAS](https://github.com/hilmihzq/DSS-Klinik-Using-Methode-COPRAS) | Decision support system for clinics using COPRAS method. | HTML, JS, Node.js,phyton,Flask-API |
-| [UI&UX AmbaTeams -Store Games](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1&t=YgfPZA7yzVBwWfRa-1)  | UI&UX Design inspired by Steam,Epic,Xbox App, for buy a game and views. | Figma |
-| [UI&UX Klinik Ponka -Klinik Healty For Anyone](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1&t=YgfPZA7yzVBwWfRa-1)  | UI&UX Design inspired by Halodoc for anyone to make some appoiment with a doctor anytime anywhere. | Figma |
+<!-- ══════════════ LEARNING JOURNEY (ANIMATED & DETAILED) ══════════════ -->
+<h2>🚀 Learning Journey & Technical Evolution</h2>
+
+<!-- ANIMASI TRANSISI RUNNING MILESTONES -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=FF3B00&center=true&vCenter=true&width=750&lines=Phase+1%3A+Web+Fundamentals+%26+Figma+UI%2FUX+Design;Phase+2%3A+Mobile+App+Dev+with+Flutter+%26+Firebase;Phase+3%3A+Backend+API+Engineering+with+Flask%2C+Jinja2+%26+PostgreSQL;Phase+4%3A+Machine+Learning%2C+PSO+%26+Playwright+Web+Crawling;Phase+5%3A+Fullstack+Enterprise+Dev+Intern+%40PT+KAI+Properti" alt="Learning Journey Transition" />
+</p>
+
+<br />
+
+### 🔷 Phase 01 · Web Fundamentals & UI/UX Design
+> **Focus**: Building responsive web interfaces & interactive design systems.
+- **Tech Stack** : `HTML5` · `CSS3` · `JavaScript (ES6+)` · `Figma`
+- **Milestones Completed** :
+  - `[x]` Responsive DOM Manipulation & Asynchronous Fetch API
+  - `[x]` UI/UX Wireframing & Design System Guidelines in Figma (*AmbaTeams & Klinik Ponka*)
+  - `[x]` Semantic HTML5 & Modern CSS3 Flexbox/Grid Layouts
 
 ---
 
-## Learning Journey
+### 🔷 Phase 02 · Mobile App Development & Cloud Integration
+> **Focus**: Native cross-platform mobile engineering for Android & iOS.
+- **Tech Stack** : `Flutter` · `Dart` · `Android Studio` · `Firebase`
+- **Milestones Completed** :
+  - `[x]` Cross-platform UI architecture using Flutter & Dart
+  - `[x]` State Management using Provider Pattern
+  - `[x]` Firebase Authentication & Real-time Cloud Firestore DB (*Recipe Food Mobile App*)
 
-- [x] HTML, CSS, JavaScript
-- [x] Firebase & Flutter
-- [x] Backend API with Flask
-- [x] Deployment & DevOps Basics
-- [x] Android Studio & Flutter
-- [x] Figma & Mockup
+---
+
+### 🔷 Phase 03 · Backend Engineering & Database Architecture
+> **Focus**: Building secure RESTful APIs, payment gateways, & enterprise databases.
+- **Tech Stack** : `Python` · `Flask` · `Jinja2` · `PostgreSQL` · `MySQL` · `Java / JSP` · `.NET`
+- **Milestones Completed** :
+  - `[x]` Secure RESTful API Architecture with JWT Authentication & OAuth 2.0
+  - `[x]` Relational Database Design with PostgreSQL & Flask-SQLAlchemy ORM
+  - `[x]` Payment Gateway Integration (*Midtrans Snap API*) & PDF Report Generation (*ReportLab*)
+  - `[x]` Unit Testing with Pytest & Gunicorn Production Deployment (*RTPU-PNJ LMS*)
+
+---
+
+### 🔷 Phase 04 · Machine Learning & Web Automation (OSINT)
+> **Focus**: AI model optimization, data crawling, & predictive analytics.
+- **Tech Stack** : `Python` · `Scikit-Learn` · `PSO Algorithm` · `Playwright`
+- **Milestones Completed** :
+  - `[x]` Customer Churn Prediction Model using Particle Swarm Optimization (PSO)
+  - `[x]` Automated Web Crawling & Spotify Data Extraction using Playwright (*churnify.online*)
+
+---
+
+### 🔷 Phase 05 · Industrial Fullstack Development
+> **Focus**: Enterprise-grade application engineering in real industry workflows.
+- **Status** : `Currently Active`
+- **Milestones Completed** :
+  - `[x]` Fullstack Developer Internship at **PT KAI Properti**
+  - `[x]` Academic & Research Collaboration at **PNJ & CCIT FT Universitas Indonesia**
+
 
 ---
 
