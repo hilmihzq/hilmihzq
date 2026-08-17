@@ -12,18 +12,22 @@
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Passionate+about+UI/UX+%26+Mobile+Development" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF3B00&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Fullstack+%26+Mobile+Developer;Passionate+about+UI%2FUX+%26+Mobile+Development;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=0e75b6&style=flat" alt="hilmihzq" />
+  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=ff3b00&style=flat-square" alt="hilmihzq profile views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-44cc11?style=flat-square&logo=Handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Currently%20Learning-Flutter%20%26%20Firebase-blue?style=flat-square&logo=Flutter"/>
-  <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-orange?style=flat-square&logo=github"/>
+  <a href="https://hilmihzq.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-FF3B00?style=flat-square&logo=googlechrome&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Role-Fullstack%20%26%20Mobile%20Dev-3B82F6?style=flat-square&logo=codefactor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Flutter%20%7C%20Next.js%20%7C%20Firebase-00E5FF?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration%20%26%20Internship-44cc11?style=flat-square&logo=handshake&logoColor=white"/>
 </p>
+
 
 ---
 
