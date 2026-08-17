@@ -89,47 +89,41 @@
 
 ---
 
-<!-- ══════════════ 1. ABOUT ME (TANPA TABEL) ══════════════ -->
+<!-- ANIMASI TYPING (AKSEN ORANYE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=141414&stroke=FF3B00&strokeWidth=1&height=90&section=header&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&desc=Hilmi%20Haziq%20%E2%80%A2%20Fullstack%20%26%20Mobile%20Developer&descSize=14&descFontColor=FF3B00" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF3B00&center=true&vCenter=true&width=750&lines=Fullstack+Developer+Intern+%40+PT+KAI+Properti;Informatics+Engineering+Student+%40+PNJ+%26+CCIT+FT+UI;Vue.js+%E2%80%A2+Jinja2+%E2%80%A2+Flask+%E2%80%A2+Flutter+%E2%80%A2+PostgreSQL" alt="Bio Typing" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF3B00&center=true&vCenter=true&width=750&lines=Informatics+Engineering+Student+%40+PNJ+%26+CCIT+FT+UI;Fullstack+Developer+Intern+%40+PT+KAI+Properti;Vue.js+%E2%80%A2+Jinja2+%E2%80%A2+Flask+%E2%80%A2+Flutter+%E2%80%A2+PostgreSQL;Combining+strong+backend+with+Figma+UI%2FUX" alt="Animated Bio Typing" />
-</p>
-
+<!-- DESKRIPSI BIO -->
 > Saya **Hilmi Haziq**, mahasiswa Teknik Informatika yang berdedikasi dan memiliki minat besar dalam Full Stack Web & Mobile Development serta Data Analysis. Saat ini saya sedang menempuh pendidikan di Politeknik Negeri Jakarta dan CCIT Fakultas Teknik Universitas Indonesia.
 > 
 > Sebagai developer, saya memiliki pengalaman praktis dalam merancang arsitektur basis data, membangun RESTful API yang aman, hingga mengimplementasikan berbagai framework modern seperti Vue.js, Jinja, dan Flutter. Saya terbiasa memadukan pemahaman teknis backend yang kuat dengan kepekaan desain antarmuka (UI/UX) menggunakan Figma untuk menghadirkan solusi digital yang inovatif dan solutif.
 
 <br />
 
-<!-- ══════════════ 2. CONTACT INFORMATION (TANPA TABEL) ══════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=141414&stroke=3B82F6&strokeWidth=1&height=90&section=header&text=CONTACT%20INFORMATION&fontSize=24&fontColor=ffffff&desc=Diskusikan%20proyek%20atau%20peluang%20kolaborasi&descSize=14&descFontColor=3B82F6" width="100%" />
-</p>
-
+<!-- BADGE KONTAK KECIL, RAPI & RINGKAS (FLAT SQUARE) -->
 <p align="center">
   <a href="mailto:hilmi.haziq052005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hilmi.haziq052005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-hilmi.haziq052005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://wa.me/+6282112195043" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B62_821--1219--5043-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-%2B62_821--1219--5043-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
-  <br /><br />
+  &nbsp;
   <a href="https://www.linkedin.com/in/hilmihaziq31/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-hilmihaziq31-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-hilmihaziq31-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/hilmihzq" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-hilmihzq-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-hilmihzq-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/hilmi.hazq/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@hilmi.hazq-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-@hilmi.hazq-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 
 
 
