@@ -34,8 +34,7 @@
 </div>
 
 <!-- ══════════════ REAL-TIME DYNAMIC METRICS BADGES ══════════════ -->
-<!-- ══════════════ REAL-TIME METRICS & ACTIVITY BADGES ══════════════ -->
-<h3 align="center">// REAL-TIME METRICS & ACTIVITY BADGES</h3>
+
 
 <!-- BARIS 1: METRIK KONTRIBUSI (PRESISI 742 CONTRIBUTIONS IN THE LAST YEAR) -->
 <p align="center">
