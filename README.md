@@ -11,42 +11,34 @@
 
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
 
-<div align="center">
+<!-- 1. TYPING ANIMATION (Width 650px - DIJAMIN TEKS TIDAK TERPOTONG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3B00&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Mobile+%26+Fullstack+Developer;UI%2FUX+%26+Mobile+Development" alt="Typing animation" />
+</p>
 
-  <!-- 1. HEADER NAMA & SALAM -->
-  <h1 align="center">Hi, I'm Hilmi Haziq 👋</h1>
+<!-- 2. PROFILE VIEWS COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=ff3b00&style=flat-square" alt="Profile Views" />
+</p>
 
-  <!-- 2. ANIMASI TYPING (PROPORSI RAPI & BERSIH) -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=FF3B00&center=true&vCenter=true&width=520&lines=Fullstack+%26+Mobile+Developer;Informatics+Engineering+Student;UI%2FUX+%26+Mobile+App+Enthusiast" alt="Typing Animation" />
-  </p>
+<!-- 3. BADGES STATUS (DENGAN SPASI RAPI) -->
+<p align="center">
+  <a href="https://hilmihzq.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-FF3B00?style=flat-square&logo=googlechrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-Fullstack_%26_Mobile-222222?style=flat-square&logo=codefactor&logoColor=FF3B00"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_To-Collaboration-222222?style=flat-square&logo=handshake&logoColor=10B981"/>
+</p>
 
-  <!-- 3. BADGES STATUS (STYLE UNIFORM & SIMETRIS) -->
-  <p align="center">
-    <a href="https://hilmihzq.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-FF3B00?style=flat-square&logo=googlechrome&logoColor=white"/>
-    </a>
-    <img src="https://img.shields.io/badge/Role-Fullstack_%26_Mobile-1e1e1e?style=flat-square&logo=codefactor&logoColor=FF3B00"/>
-    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-1e1e1e?style=flat-square&logo=handshake&logoColor=10B981"/>
-    <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Views&color=FF3B00&style=flat-square" alt="Profile Views" />
-  </p>
+<br />
 
-  <br />
+<!-- 4. TECH STACK ICONS (STABIL & DIJAMIN TIDAK BROKEN) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,nextjs,vue,firebase,mysql,java,dotnet,figma&perline=8" alt="Tech Stack" />
+</p>
 
-  <!-- 4. TECH STACK (1 BARIS PROPORSIONAL) -->
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,nextjs,vue,firebase,mysql,java,dotnet,figma&perline=8" alt="Tech Stack Icons" />
-  </p>
-
-  <br />
-
-  <!-- 5. STATS CARD (RAPI 2 KOLOM SEJAJAR) -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=dark&title_color=ff3b00&icon_color=ff3b00&bg_color=141414&border_color=222222&hide_border=false" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=dark&title_color=ff3b00&bg_color=141414&border_color=222222&hide_border=false" width="48%" />
-  </p>
-
-</div>
 
 
 
