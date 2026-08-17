@@ -91,41 +91,74 @@
 
 ## About Me
 
+<div align="center">
 
-### // 01 · ABOUT ME
+  <!-- 1. HEADER BANNER CYLINDER SLIM -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=141414&stroke=FF3B00&strokeWidth=1&height=140&section=header&text=HILMI%20HAZIQ&fontSize=38&fontColor=ffffff&desc=Fullstack%20%26%20Mobile%20Developer&descSize=15&descFontColor=FF3B00" width="100%" />
 
-Mahasiswa Teknik Informatika di **Politeknik Negeri Jakarta (PNJ)** & **CCIT FT Universitas Indonesia**, serta **Fullstack Developer Intern @ PT KAI Properti**. Berfokus pada pengembangan sistem web & mobile berskala enterprise, arsitektur basis data, serta antarmuka pengguna berbasis UI/UX Human Guidelines.
+  <br />
 
-- **Portfolio Web** : [hilmihzq.github.io](https://hilmihzq.github.io)
-- **Current Stack** : Flask, Jinja2, Vue.js, Next.js, .NET, Flutter, PostgreSQL, Firebase
-- **Articles & Writing** : [Medium Publication (@hilmi.haziq052005)](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
+  <!-- 2. TYPING SUBTITLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=aaaaaa&center=true&vCenter=true&width=620&lines=Informatics+Engineering+Student+%40+PNJ+%26+CCIT+FT+UI;Fullstack+Developer+Intern+%40+PT+KAI+Properti;Crafting+scalable+web+systems+%26+mobile+applications" alt="Typing SVG" />
+
+  <br /><br />
+
+  <!-- 3. ESSENTIAL LINKS & BADGES -->
+  <p align="center">
+    <a href="https://hilmihzq.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-hilmihzq.github.io-FF3B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/hilmihaziq31" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-hilmihaziq31-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+    </a>
+  </p>
+
+</div>
+
+<br />
+
+> **Fullstack Developer Intern @ PT KAI Properti** & Informatics Engineering Student at Politeknik Negeri Jakarta & CCIT FT UI. Focused on building scalable web applications, robust RESTful APIs, and intuitive mobile solutions with clean architecture.
 
 ---
 
-### // 02 · FEATURED PROJECTS & REPOSITORIES
+### Tech Stack & Skills
 
-| Project Name | Architecture & Tech Stack | Link / Repository |
-| :--- | :--- | :--- |
-| **RTPU-PNJ Research LMS** | Flask, Jinja2, PostgreSQL, Midtrans API | [Repository](https://github.com/hilmihzq/HilmiHaziq-Portofolio.git) |
-| **Recipe Food Mobile App** | Flutter, Dart, Firebase Auth & Firestore | [Repository](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop) |
-| **churnify.online** | Python, Machine Learning, OSINT Web Engine | [Live Web App](https://churnify.online) |
-| **Katalog Sneakers API** | JavaScript ES6+, RESTful API, Dynamic DOM | [Repository](https://github.com/hilmihzq/Katalog-Shoesh-Using-API) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,nextjs,vue,flask,postgres,mysql,firebase,java,dotnet,figma,python,js,tailwind,git&perline=7" alt="Tech Stack" />
+</p>
 
 ---
 
-### // 03 · UI/UX DESIGN PROTOTYPES
+### Selected Projects
 
-- **AmbaTeams Game Store System** : [View Figma Prototype](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1)
-- **Klinik Ponka Healthcare Mobile** : [View Figma Prototype](https://www.figma.com/design/kfef8CHkMAULU220L9GBIT/Klinik-Ponka)
+- **RTPU-PNJ Research LMS** — E-Learning platform built with `Flask`, `Jinja2`, `PostgreSQL`, & `Midtrans API`.  
+  [`[ Repository ]`](https://github.com/hilmihzq/HilmiHaziq-Portofolio.git)
+
+- **Recipe Food Mobile App** — Modular mobile application built with `Flutter`, `Dart`, & `Firebase`.  
+  [`[ Repository ]`](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)
+
+- **churnify.online** — Spotify customer churn prediction platform using `Python`, `Machine Learning`, & `OSINT`.  
+  [`[ Live Web ]`](https://churnify.online)
+
+- **Katalog Sneakers API** — High-speed product catalog with dynamic `REST API` integration & `ES6+`.  
+  [`[ Repository ]`](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)
+
+- **UI/UX Design Systems** — Interactive prototypes & comprehensive design systems in Figma.  
+  [`[ AmbaTeams Game Store ]`](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1) • [`[ Klinik Ponka Healthcare ]`](https://www.figma.com/design/kfef8CHkMAULU220L9GBIT/Klinik-Ponka)
 
 ---
 
-### // 04 · CONTACT & INFORMATION
+### Contact & Information
 
-- **Direct Email** : [hilmi.haziq052005@gmail.com](mailto:hilmi.haziq052005@gmail.com)
-- **LinkedIn Profile** : [linkedin.com/in/hilmihaziq31](https://linkedin.com/in/hilmihaziq31)
-- **Curriculum Vitae** : Tersedia atas permintaan via email
-- **Interests** : Software Architecture, Tech Research, Literature & Music
+```text
+Email     : hilmi.haziq052005@gmail.com
+LinkedIn  : linkedin.com/in/hilmihaziq31
+Resume    : Available upon request via email
+Location  : Jakarta, Indonesia
+
 
 
 ---
