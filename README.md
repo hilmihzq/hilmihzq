@@ -36,9 +36,9 @@
 <br />
 
 <!-- 3. DETAIL TECH STACK DIKELOMPOKKAN RAPI -->
-### 🛠️ Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
-#### 🌐 Frameworks & Templating
+#### Frameworks & Templating
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Jinja2-B21919?style=flat-square&logo=jinja&logoColor=white" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-#### 💻 Programming Languages
+#### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-#### 🗄️ Databases & Cloud Services
+#### Databases & Cloud Services
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-#### 🎨 Design & Developer Tools
+#### Design & Developer Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
