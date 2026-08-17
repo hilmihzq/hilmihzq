@@ -220,41 +220,39 @@
 
 
 
-## Let's Connect
-
-<p align="center">
-  <a href="https://twitter.com/hilmihzq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hilmihzq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://fb.com/hilmi hzq"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/hilmihaziiq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/hilmihzq"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/hilmihzq"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
 
 ---
 
-## Tools & Technologies
+<!-- ══════════════ ANIMATED GITHUB DATA DASHBOARD (BEBAS EMOJI) ══════════════ -->
+<h3 align="center">// ANIMATED GITHUB ANALYTICS & METRICS</h3>
 
+<!-- 1. ANIMASI TYPING STATUS ENGINE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=FF3B00&center=true&vCenter=true&width=750&lines=System+Status%3A+Active+Commit+Engine;Tracking+Real-time+GitHub+Contributions+%26+Activity;Live+Analytics+--+Hilmi+Haziq" alt="Live Typing Status" />
 </p>
 
----
-
-## GitHub Stats
-
+<!-- 2. ANIMASI ULAR KONTRIBUSI (BERGERAK MENJALAR DI GRID KONTRIBUSI) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=transparent&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=transparent&hide_border=true" width="300" />
+  <img src="https://raw.githubusercontent.com/hilmihzq/hilmihzq/output/github-contribution-grid-snake-dark.svg" width="98.5%" alt="Animated GitHub Contribution Snake" />
 </p>
+
+<!-- 3. DUAL CORE STATS & TOP LANGUAGES (SIMETRIS 49% - 49%) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=dark&title_color=ff3b00&icon_color=ff3b00&text_color=ffffff&bg_color=141414&border_color=333333&hide_border=false" width="49%" alt="GitHub Core Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=dark&title_color=ff3b00&text_color=ffffff&bg_color=141414&border_color=333333&hide_border=false" width="49%" alt="Top Languages" />
+</p>
+
+<!-- 4. STREAK STATS ANALYTICS -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmihzq&theme=dark&background=141414&stroke=ff3b00&alarm=ff3b00&fire=ff3b00&ring=ff3b00&border=333333" width="98.5%" alt="Streak Analytics" />
+</p>
+
+<!-- 5. ANIMATED CONTRIBUTION ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilmihzq&theme=react-dark&bg_color=141414&color=ff3b00&line=ff3b00&point=ffffff&area=true&hide_border=false" width="98.5%" alt="Activity Graph" />
+</p>
+
 
 
 
