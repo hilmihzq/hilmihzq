@@ -223,34 +223,42 @@
 
 ---
 
-<!-- ══════════════ ANIMATED GITHUB DATA DASHBOARD (BEBAS EMOJI) ══════════════ -->
-<h3 align="center">// ANIMATED GITHUB ANALYTICS & METRICS</h3>
+<!-- ══════════════ GITHUB METRICS & ACTIVITY BADGES ══════════════ -->
+<h3 align="center">// GITHUB METRICS & ACTIVITY BADGES</h3>
 
-<!-- 1. ANIMASI TYPING STATUS ENGINE -->
+<!-- BARIS 1: KONTRIBUSI & AKTIVITAS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=FF3B00&center=true&vCenter=true&width=750&lines=System+Status%3A+Active+Commit+Engine;Tracking+Real-time+GitHub+Contributions+%26+Activity;Live+Analytics+--+Hilmi+Haziq" alt="Live Typing Status" />
-</p>
-
-<!-- 2. ANIMASI ULAR KONTRIBUSI (BERGERAK MENJALAR DI GRID KONTRIBUSI) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hilmihzq/hilmihzq/output/github-contribution-grid-snake-dark.svg" width="98.5%" alt="Animated GitHub Contribution Snake" />
-</p>
-
-<!-- 3. DUAL CORE STATS & TOP LANGUAGES (SIMETRIS 49% - 49%) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmihzq&show_icons=true&theme=dark&title_color=ff3b00&icon_color=ff3b00&text_color=ffffff&bg_color=141414&border_color=333333&hide_border=false" width="49%" alt="GitHub Core Stats" />
+  <img src="https://img.shields.io/badge/Total_Contributions-850+-FF3B00?style=flat-square&logo=github&logoColor=white" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmihzq&layout=compact&theme=dark&title_color=ff3b00&text_color=ffffff&bg_color=141414&border_color=333333&hide_border=false" width="49%" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Public_Repos-25+-3B82F6?style=flat-square&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Current_Streak-Active-10B981?style=flat-square&logo=codefactor&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Longest_Streak-12_Days-FF3B00?style=flat-square&logo=codefactor&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=FF3B00&style=flat-square" alt="Views" />
 </p>
 
-<!-- 4. STREAK STATS ANALYTICS -->
+<!-- BARIS 2: METRIK BAHASA & FRAMEWORK -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmihzq&theme=dark&background=141414&stroke=ff3b00&alarm=ff3b00&fire=ff3b00&ring=ff3b00&border=333333" width="98.5%" alt="Streak Analytics" />
+  <img src="https://img.shields.io/badge/Primary_Lang-Python_%7C_Dart-3776AB?style=flat-square&logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Frameworks-Flask_%7C_Flutter_%7C_Vue-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL_%7C_MySQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Templating-Jinja2-B21919?style=flat-square&logo=jinja&logoColor=white" />
 </p>
 
-<!-- 5. ANIMATED CONTRIBUTION ACTIVITY GRAPH -->
+<!-- BARIS 3: KUALITAS KODE, TESTING & STATUS -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilmihzq&theme=react-dark&bg_color=141414&color=ff3b00&line=ff3b00&point=ffffff&area=true&hide_border=false" width="98.5%" alt="Activity Graph" />
+  <img src="https://img.shields.io/badge/Code_Architecture-Clean_%26_Modular-10B981?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/UI%2FUX-Figma_Design_System-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Testing-Pytest_%26_Playwright-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-10B981?style=flat-square" />
 </p>
 
 
