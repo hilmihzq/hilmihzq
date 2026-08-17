@@ -91,6 +91,43 @@
 
 ## About Me
 
+> **Fullstack Developer Intern @ PT KAI Properti** & Mahasiswa Teknik Informatika di Politeknik Negeri Jakarta (PNJ) & CCIT FT Universitas Indonesia. Berfokus pada pengembangan sistem web & mobile berskala enterprise, RESTful API, dan perancangan antarmuka pengguna berbasis UI/UX.
+
+<table width="100%">
+  <tr>
+    <td width="28%" valign="top"><b>🌐 Web Portfolio</b></td>
+    <td width="72%"><a href="https://hilmihzq.github.io" target="_blank">hilmihzq.github.io</a></td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>📝 Publications</b></td>
+    <td width="72%"><a href="https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d" target="_blank">Medium Articles (@hilmi.haziq052005)</a></td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>🚀 Active Projects</b></td>
+    <td width="72%">
+      • <a href="https://github.com/hilmihzq/HilmiHaziq-Portofolio.git" target="_blank">RTPU-PNJ Research LMS</a> — <code>Flask</code> <code>Jinja2</code> <code>PostgreSQL</code><br/>
+      • <a href="https://github.com/hilmihzq/Recipe-Food-Mobile-Develop" target="_blank">Recipe Food Mobile App</a> — <code>Flutter</code> <code>Firebase</code><br/>
+      • <a href="https://churnify.online" target="_blank">churnify.online</a> — <code>Python ML</code> <code>OSINT</code><br/>
+      • <a href="https://github.com/hilmihzq/Katalog-Shoesh-Using-API" target="_blank">Katalog Sneakers API</a> — <code>REST API</code> <code>JS ES6+</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>🎨 UI/UX Prototypes</b></td>
+    <td width="72%">
+      <a href="https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1" target="_blank">AmbaTeams Game Store</a> &nbsp;|&nbsp; 
+      <a href="https://www.figma.com/design/kfef8CHkMAULU220L9GBIT/Klinik-Ponka" target="_blank">Klinik Ponka Healthcare</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top"><b>📫 Contact & CV</b></td>
+    <td width="72%">
+      <a href="mailto:hilmi.haziq052005@gmail.com">hilmi.haziq052005@gmail.com</a> &nbsp;|&nbsp; 
+      <a href="https://linkedin.com/in/hilmihaziq31" target="_blank">LinkedIn Profile</a><br/>
+      <i>Resume available upon request via email</i>
+    </td>
+  </tr>
+</table>
+
 
 ## Developer Vibes
 
