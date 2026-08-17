@@ -11,33 +11,78 @@
 
 <h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
 
-<!-- 1. TYPING ANIMATION (Width 650px - DIJAMIN TEKS TIDAK TERPOTONG) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3B00&center=true&vCenter=true&width=650&lines=Informatics+Engineering+Student;Mobile+%26+Fullstack+Developer;UI%2FUX+%26+Mobile+Development" alt="Typing animation" />
+<div align="center">
+
+  <!-- 1. ANIMASI TYPING (Width 700px - RAPI & TIDAK TERPOTONG) -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3B00&center=true&vCenter=true&width=700&lines=Informatics+Engineering+Student+%E2%80%A2+PNJ+%26+CCIT+FT+UI;Fullstack+%26+Mobile+Developer;Flask+%E2%80%A2+Jinja2+%E2%80%A2+PostgreSQL+%E2%80%A2+Flutter+%E2%80%A2+Vue.js;Building+Scalable+Web+%26+Mobile+Applications" alt="Typing Animation" />
+  </p>
+
+  <!-- 2. BADGES UTAMA & PROFILE VIEWS -->
+  <p align="center">
+    <a href="https://hilmihzq.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-FF3B00?style=flat-square&logo=googlechrome&logoColor=white"/>
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Role-Fullstack_%26_Mobile-222222?style=flat-square&logo=codefactor&logoColor=FF3B00"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Education-PNJ_%26_CCIT_FT_UI-222222?style=flat-square&logo=academicons&logoColor=3B82F6"/>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Views&color=FF3B00&style=flat-square" alt="Profile Views" />
+  </p>
+
+</div>
+
+<br />
+
+<!-- 3. DETAIL TECH STACK DIKELOMPOKKAN RAPI -->
+### 🛠️ Tech Stack & Ecosystem
+
+#### 🌐 Frameworks & Templating
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-B21919?style=flat-square&logo=jinja&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-<!-- 2. PROFILE VIEWS COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=ff3b00&style=flat-square" alt="Profile Views" />
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<!-- 3. BADGES STATUS (DENGAN SPASI RAPI) -->
-<p align="center">
-  <a href="https://hilmihzq.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-FF3B00?style=flat-square&logo=googlechrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Role-Fullstack_%26_Mobile-222222?style=flat-square&logo=codefactor&logoColor=FF3B00"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_To-Collaboration-222222?style=flat-square&logo=handshake&logoColor=10B981"/>
+#### 🗄️ Databases & Cloud Services
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+#### 🎨 Design & Developer Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 </p>
 
 <br />
 
-<!-- 4. TECH STACK ICONS (STABIL & DIJAMIN TIDAK BROKEN) -->
+<!-- 5. VISUAL SKILL ICONS GRID -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,nextjs,vue,firebase,mysql,java,dotnet,figma&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,flask,flutter,dart,vue,nextjs,postgres,mysql,firebase,java,dotnet,figma,html,css,js,tailwind,git,postman&perline=9" alt="Visual Skill Icons Grid" />
 </p>
+
 
 
 
