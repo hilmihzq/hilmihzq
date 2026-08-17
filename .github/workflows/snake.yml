@@ -1,10 +1,10 @@
-name: Generate Snake
+name: Generate Pac-Man Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
+  
   push:
     branches:
       - main
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Pac-Man Animation
         uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -24,8 +24,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake to Output Branch
+          
+      - name: Push Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
