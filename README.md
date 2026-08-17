@@ -91,29 +91,6 @@
 
 ## About Me
 
-<div align="center">
-
-  <!-- TYPING SVG (FUTURISTIK, BEBAS EMOJI) -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3B00&center=true&vCenter=true&width=720&lines=Informatics+Engineering+Student+--+PNJ+%26+CCIT+FT+UI;Fullstack+%26+Mobile+Developer+Intern+%40PT+KAI+Properti;Flask+--+Jinja2+--+PostgreSQL+--+Flutter+--+Vue.js+--+Next.js" alt="Typing Animation" />
-  </p>
-
-  <!-- UNIFORM BADGES -->
-  <p align="center">
-    <a href="https://hilmihzq.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-FF3B00?style=flat-square"/>
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Role-Fullstack_%26_Mobile-1a1a1a?style=flat-square"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Education-PNJ_%26_CCIT_FT_UI-1a1a1a?style=flat-square"/>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Views&color=FF3B00&style=flat-square" alt="Views" />
-  </p>
-
-</div>
-
-<hr />
 
 ### // 01 · ABOUT ME
 
