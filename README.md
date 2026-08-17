@@ -142,7 +142,7 @@
 ---
 
 <!-- ══════════════ LEARNING JOURNEY (ANIMATED & DETAILED) ══════════════ -->
-<h2>🚀 Learning Journey & Technical Evolution</h2>
+<h2> Learning Journey & Technical Evolution</h2>
 
 <!-- ANIMASI TRANSISI RUNNING MILESTONES -->
 <p align="center">
@@ -151,7 +151,7 @@
 
 <br />
 
-### 🔷 Phase 01 · Web Fundamentals & UI/UX Design
+###  Phase 01 · Web Fundamentals & UI/UX Design
 > **Focus**: Building responsive web interfaces & interactive design systems.
 - **Tech Stack** : `HTML5` · `CSS3` · `JavaScript (ES6+)` · `Figma`
 - **Milestones Completed** :
@@ -161,7 +161,7 @@
 
 ---
 
-### 🔷 Phase 02 · Mobile App Development & Cloud Integration
+###  Phase 02 · Mobile App Development & Cloud Integration
 > **Focus**: Native cross-platform mobile engineering for Android & iOS.
 - **Tech Stack** : `Flutter` · `Dart` · `Android Studio` · `Firebase`
 - **Milestones Completed** :
@@ -171,7 +171,7 @@
 
 ---
 
-### 🔷 Phase 03 · Backend Engineering & Database Architecture
+###  Phase 03 · Backend Engineering & Database Architecture
 > **Focus**: Building secure RESTful APIs, payment gateways, & enterprise databases.
 - **Tech Stack** : `Python` · `Flask` · `Jinja2` · `PostgreSQL` · `MySQL` · `Java / JSP` · `.NET`
 - **Milestones Completed** :
@@ -182,7 +182,7 @@
 
 ---
 
-### 🔷 Phase 04 · Machine Learning & Web Automation (OSINT)
+###  Phase 04 · Machine Learning & Web Automation (OSINT)
 > **Focus**: AI model optimization, data crawling, & predictive analytics.
 - **Tech Stack** : `Python` · `Scikit-Learn` · `PSO Algorithm` · `Playwright`
 - **Milestones Completed** :
@@ -191,7 +191,7 @@
 
 ---
 
-### 🔷 Phase 05 · Industrial Fullstack Development
+###  Phase 05 · Industrial Fullstack Development
 > **Focus**: Enterprise-grade application engineering in real industry workflows.
 - **Status** : `Currently Active`
 - **Milestones Completed** :
