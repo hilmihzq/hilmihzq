@@ -91,13 +91,65 @@
 
 ## About Me
 
-- Currently exploring: **Node.js, Flask, Python, HTML, CSS, JavaScript, Flutter**
-- Actively collaborating on: [Recipe-Food-Mobile-Develop](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop)
-- Need help on: [API Optimization Project](https://github.com/hilmihzq/Katalog-Shoesh-Using-API)
-- Writing on: [Medium](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
-- Reach me at: **hilmi.haziq052005@gmail.com**
-- My resume: Available upon request (please contact me by email)
-- Fun fact: *I love Music & book lover 
+<div align="center">
+
+  <!-- TYPING SVG (FUTURISTIK, BEBAS EMOJI) -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3B00&center=true&vCenter=true&width=720&lines=Informatics+Engineering+Student+--+PNJ+%26+CCIT+FT+UI;Fullstack+%26+Mobile+Developer+Intern+%40PT+KAI+Properti;Flask+--+Jinja2+--+PostgreSQL+--+Flutter+--+Vue.js+--+Next.js" alt="Typing Animation" />
+  </p>
+
+  <!-- UNIFORM BADGES -->
+  <p align="center">
+    <a href="https://hilmihzq.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-hilmihzq.github.io-FF3B00?style=flat-square"/>
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Role-Fullstack_%26_Mobile-1a1a1a?style=flat-square"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Education-PNJ_%26_CCIT_FT_UI-1a1a1a?style=flat-square"/>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Views&color=FF3B00&style=flat-square" alt="Views" />
+  </p>
+
+</div>
+
+<hr />
+
+### // 01 · ABOUT ME
+
+Mahasiswa Teknik Informatika di **Politeknik Negeri Jakarta (PNJ)** & **CCIT FT Universitas Indonesia**, serta **Fullstack Developer Intern @ PT KAI Properti**. Berfokus pada pengembangan sistem web & mobile berskala enterprise, arsitektur basis data, serta antarmuka pengguna berbasis UI/UX Human Guidelines.
+
+- **Portfolio Web** : [hilmihzq.github.io](https://hilmihzq.github.io)
+- **Current Stack** : Flask, Jinja2, Vue.js, Next.js, .NET, Flutter, PostgreSQL, Firebase
+- **Articles & Writing** : [Medium Publication (@hilmi.haziq052005)](https://medium.com/@hilmi.haziq052005/introduction-690db3005f1d)
+
+---
+
+### // 02 · FEATURED PROJECTS & REPOSITORIES
+
+| Project Name | Architecture & Tech Stack | Link / Repository |
+| :--- | :--- | :--- |
+| **RTPU-PNJ Research LMS** | Flask, Jinja2, PostgreSQL, Midtrans API | [Repository](https://github.com/hilmihzq/HilmiHaziq-Portofolio.git) |
+| **Recipe Food Mobile App** | Flutter, Dart, Firebase Auth & Firestore | [Repository](https://github.com/hilmihzq/Recipe-Food-Mobile-Develop) |
+| **churnify.online** | Python, Machine Learning, OSINT Web Engine | [Live Web App](https://churnify.online) |
+| **Katalog Sneakers API** | JavaScript ES6+, RESTful API, Dynamic DOM | [Repository](https://github.com/hilmihzq/Katalog-Shoesh-Using-API) |
+
+---
+
+### // 03 · UI/UX DESIGN PROTOTYPES
+
+- **AmbaTeams Game Store System** : [View Figma Prototype](https://www.figma.com/design/2vJ9WsEsHJgvmneKdg1JGq/UI-UX-Hilmix?node-id=0-1)
+- **Klinik Ponka Healthcare Mobile** : [View Figma Prototype](https://www.figma.com/design/kfef8CHkMAULU220L9GBIT/Klinik-Ponka)
+
+---
+
+### // 04 · CONTACT & INFORMATION
+
+- **Direct Email** : [hilmi.haziq052005@gmail.com](mailto:hilmi.haziq052005@gmail.com)
+- **LinkedIn Profile** : [linkedin.com/in/hilmihaziq31](https://linkedin.com/in/hilmihaziq31)
+- **Curriculum Vitae** : Tersedia atas permintaan via email
+- **Interests** : Software Architecture, Tech Research, Literature & Music
+
 
 ---
 
