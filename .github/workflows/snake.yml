@@ -1,4 +1,4 @@
-name: Generate Pac-Man Animation
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -16,16 +16,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake / Pac-Man Animation
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: hilmihzq
+          github_user_name: hilmihealme
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      - name: Push Animation to Output Branch
+      - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
