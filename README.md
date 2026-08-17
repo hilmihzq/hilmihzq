@@ -33,20 +33,21 @@
 
 </div>
 
-<!-- BARIS 1: KONTRIBUSI & AKTIVITAS -->
+<!-- ══════════════ 100% DYNAMIC METRICS BADGES ══════════════ -->
+<h3 align="center">// REAL-TIME DYNAMIC METRICS</h3>
+
+<!-- BARIS 1: METRIK REAL-TIME OTOMATIS DARI GITHUB API -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-850+-FF3B00?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=FF3B00&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Public_Repos-25+-3B82F6?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/github/repos/personal/hilmihzq?style=flat-square&label=Public%20Repos&color=3B82F6&logo=git&logoColor=white" alt="Public Repos" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Current_Streak-Active-10B981?style=flat-square&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/hilmihzq?style=flat-square&label=Stars%20Earned&color=FF3B00&logo=githubsponsors&logoColor=white" alt="Stars" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Longest_Streak-12_Days-FF3B00?style=flat-square&logo=codefactor&logoColor=white" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=FF3B00&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/hilmihzq?style=flat-square&label=Followers&color=10B981&logo=github&logoColor=white" alt="Followers" />
 </p>
 
-<!-- BARIS 2: METRIK BAHASA & FRAMEWORK -->
+<!-- BARIS 2: METRIK BAHASA & FRAMEWORK (PORTFOLIO STACK) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Primary_Lang-Python_%7C_Dart-3776AB?style=flat-square&logo=python&logoColor=white" />
   &nbsp;
@@ -56,7 +57,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Templating-Jinja2-B21919?style=flat-square&logo=jinja&logoColor=white" />
 </p>
-
 
 <!-- BARIS 3: KUALITAS KODE, TESTING & STATUS -->
 <p align="center">
@@ -69,7 +69,6 @@
   <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-10B981?style=flat-square" />
 </p>
 
-<br />
 
 <!-- 3. DETAIL TECH STACK DIKELOMPOKKAN RAPI -->
 ### Tech Stack & Ecosystem
