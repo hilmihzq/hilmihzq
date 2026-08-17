@@ -34,14 +34,14 @@
 </div>
 
 <!-- ══════════════ REAL-TIME DYNAMIC METRICS BADGES ══════════════ -->
-<!-- ══════════════ METRICS & ACTIVITY BADGES (PERBAIKAN 100% STABIL) ══════════════ -->
+<!-- ══════════════ REAL-TIME METRICS & ACTIVITY BADGES ══════════════ -->
 <h3 align="center">// REAL-TIME METRICS & ACTIVITY BADGES</h3>
 
-<!-- BARIS 1: METRIK KONTRIBUSI & PROFIL (100% PRESISI & BEBAS ERROR) -->
+<!-- BARIS 1: METRIK KONTRIBUSI (PRESISI 742 CONTRIBUTIONS IN THE LAST YEAR) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=FF3B00&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Total_Contributions-850%2B-FF3B00?style=flat-square&logo=github&logoColor=white" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Contributions-742_in_last_year-FF3B00?style=flat-square&logo=github&logoColor=white" alt="742 Contributions in last year" />
   &nbsp;
   <img src="https://img.shields.io/badge/Activity_Status-Daily_Commits-3B82F6?style=flat-square&logo=git&logoColor=white" alt="Activity Status" />
   &nbsp;
@@ -69,6 +69,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-10B981?style=flat-square" />
 </p>
+
 
 
 
