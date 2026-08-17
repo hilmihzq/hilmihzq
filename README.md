@@ -36,18 +36,18 @@
 <!-- ══════════════ 100% DYNAMIC METRICS BADGES ══════════════ -->
 <h3 align="center">// REAL-TIME DYNAMIC METRICS</h3>
 
-<!-- BARIS 1: METRIK REAL-TIME OTOMATIS DARI GITHUB API -->
+<!-- BARIS 1: 100% DINAMIS DARI GITHUB API & REST ENDPOINTS (NO HARDCODED NUMBERS) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=FF3B00&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/repos/personal/hilmihzq?style=flat-square&label=Public%20Repos&color=3B82F6&logo=git&logoColor=white" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Last%20Year%20Contributions&query=$.total.lastYear&url=https://github-contributions-api.jogruber.de/v4/hilmihzq&color=FF3B00&logo=github&logoColor=white" alt="Last Year Contributions" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/hilmihzq?style=flat-square&label=Stars%20Earned&color=FF3B00&logo=githubsponsors&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/hilmihzq/HilmiHaziq-Portofolio?style=flat-square&label=Last%20Commit&color=3B82F6&logo=git&logoColor=white" alt="Last Commit" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/hilmihzq?style=flat-square&label=Followers&color=10B981&logo=github&logoColor=white" alt="Followers" />
 </p>
 
-<!-- BARIS 2: METRIK BAHASA & FRAMEWORK (PORTFOLIO STACK) -->
+<!-- BARIS 2: METRIK BAHASA & FRAMEWORK -->
 <p align="center">
   <img src="https://img.shields.io/badge/Primary_Lang-Python_%7C_Dart-3776AB?style=flat-square&logo=python&logoColor=white" />
   &nbsp;
@@ -68,6 +68,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-10B981?style=flat-square" />
 </p>
+
 
 
 <!-- 3. DETAIL TECH STACK DIKELOMPOKKAN RAPI -->
