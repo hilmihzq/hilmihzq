@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=FF3B00&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF3B00&label=Total%20Contributions&query=f($.total)&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fhilmihzq%3Fy%3Dall&style=flat-square&logo=github&logoColor=white" alt="Total Contributions All-Time" />
+  <img src="https://img.shields.io/badge/Contributions-588_in_2026-FF3B00?style=flat-square&logo=github&logoColor=white" alt="2026 Contributions" />
   &nbsp;
   <img src="https://img.shields.io/badge/Activity_Status-Daily_Commits-3B82F6?style=flat-square&logo=git&logoColor=white" alt="Activity Status" />
   &nbsp;
