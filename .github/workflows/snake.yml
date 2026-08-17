@@ -1,4 +1,4 @@
-name: Generate Pac-Man Snake
+name: Generate Pac-Man Animation
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Pac-Man Animation
+      - name: Generate Snake / Pac-Man Animation
         uses: Platane/snk@v3
         id: snake-gif
         with:
