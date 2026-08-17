@@ -26,8 +26,7 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Role-Fullstack_%26_Mobile-222222?style=flat-square&logo=codefactor&logoColor=FF3B00"/>
     &nbsp;
-    <img src="https://img.shields.io/badge/Education-Politeknik Negeri Jakarta_%26-222222?style=flat-squarelogo=academicons\logoColor=3B82F6"/>
-    &nbsp;
+    <img src="https://img.shields.io/badge/Education-Politeknik Negeri Jakarta-222222?style=flat-square&logo=academicons&logoColor=3B82F6"/>
     <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Views&color=FF3B00&style=flat-square" alt="Profile Views" />
   </p>
 
