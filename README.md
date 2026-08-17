@@ -35,11 +35,11 @@
 <!-- ══════════════ REAL-TIME DYNAMIC METRICS BADGES ══════════════ -->
 
 
-<!-- BARIS 1: METRIK KONTRIBUSI (PRESISI 742 CONTRIBUTIONS IN THE LAST YEAR) -->
+<!-- BARIS 1: METRIK KONTRIBUSI & STATISTIK DINAMIS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hilmihzq&label=Profile%20Views&color=FF3B00&style=flat-square" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Contributions-742_in_last_year-FF3B00?style=flat-square&logo=github&logoColor=white" alt="742 Contributions in last year" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=FF3B00&label=Total%20Contributions&query=f($.total)&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fhilmihzq%3Fy%3Dall&style=flat-square&logo=github&logoColor=white" alt="Total Contributions All-Time" />
   &nbsp;
   <img src="https://img.shields.io/badge/Activity_Status-Daily_Commits-3B82F6?style=flat-square&logo=git&logoColor=white" alt="Activity Status" />
   &nbsp;
