@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Hilmi Haziq</h1>
+<h1 align="center">Hi, I'm Hilmi Haziq</h1>
 
 <div align="center">
 
